@@ -18,7 +18,7 @@
 - Express <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RI_lzIWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2APTKhCN2p9S8EDZ4r.gif" width="30"> 
 
     <a href="https://github.com/rajdeep9565/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajdeeo9565&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajdeep9565&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
 	
 

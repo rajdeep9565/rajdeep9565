@@ -2,11 +2,11 @@
 
 
 
-### Hi there, I am Abhishek Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-4b0999b9//)](https://www.linkedin.com/in/abhishek-singh-4b0999b9/)
-[![Gmail Badge](https://img.shields.io/badge/-Abhishek-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh80020@gmail.com)](mailto:singh80020@gmail.com) 
+### Hi there, I am Rajdeep Kumar Singh 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Rajdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajdeep-kumar-singh-9b5b59216///)](https://www.linkedin.com/in/rajdeep-kumar-singh-9b5b59216//)
+[![Gmail Badge](https://img.shields.io/badge/-Rajdeep-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajdeeprajsingh@gmail.com)](mailto:rajdeeprajsingh@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://github.com/Abhisingh755)
+- 🎯 Portfolio website: [Portfolio](https://rajdeep_singh.dorik.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
@@ -17,8 +17,8 @@
 - Tailwind <img src="https://raw.githubusercontent.com/app-generator/static/master/tailwind-css/tailwind-css-components-intro.gif" width="30"> 
 - Express <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RI_lzIWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2APTKhCN2p9S8EDZ4r.gif" width="30"> 
 
-    <a href="https://github.com/Abhisingh755/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Abhisingh755&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    <a href="https://github.com/rajdeep9565/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajdeeo9565&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
 	
 

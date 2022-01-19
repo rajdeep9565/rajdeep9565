@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rajdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajdeep-kumar-singh-9b5b59216///)](https://www.linkedin.com/in/rajdeep-kumar-singh-9b5b59216//)
 [![Gmail Badge](https://img.shields.io/badge/-Rajdeep-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajdeeprajsingh@gmail.com)](mailto:rajdeeprajsingh@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajdeep_singh.dorik.io/)
+- 🎯 Portfolio website: [Portfolio](https://rajdeepsingh-one.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*
